@@ -39,6 +39,6 @@ s3transfer==0.2.0
 six==1.12.0
 sqlparse==0.3.0
 typed-ast==1.3.2
-urllib3==1.25.2
+urllib3==1.25.8
 whitenoise==4.1.2
 wrapt==1.11.1
